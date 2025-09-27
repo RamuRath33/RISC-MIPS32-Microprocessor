@@ -49,12 +49,6 @@ The processor architecture is based on a 5-stage pipeline, where each stage is r
 
 This processor supports a subset of the MIPS32 instruction set to demonstrate pipelined execution and hazard management.
 
-## Installation
 
-To install and run the project:
-
-1. Clone the repository: 
-   ```bash
-   git clone https://github.com/yourusername/5-stage-pipelined-mips32.git
 
 
